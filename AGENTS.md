@@ -7,7 +7,7 @@ Better secure storage for .NET MAUI on Android, iOS, Mac Catalyst, and Windows, 
 - Package: `Plugin.Maui.SecureStoragePlus`
 - NuGet: https://www.nuget.org/packages/Plugin.Maui.SecureStoragePlus
 - GitHub: https://github.com/nuvyntralabs/Plugin.Maui.SecureStoragePlus
-- Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-secure-storage-plus
+- Paper: https://nuvyntralabs.github.io/packages/plugin-maui-secure-storage-plus/
 - Catalog: https://github.com/nuvyntralabs/MauiEssentials
 - Versions: net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+), net10.0-maccatalyst (15+), net10.0-windows (10.0.17763+; packed on Windows)
 
